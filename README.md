@@ -8,4 +8,4 @@ In the second part I generated a data frame and graph showing the total capital 
 
 I'm using a csv file disponibilized by FAOSTAT here: https://www.fao.org/faostat/en/#data
 
-This project can be found in my Keggle profile here: https://www.kaggle.com/code/lucasscaetano/agricultural-analysis-exercise/notebook
+This project can be found with the datasets in my Keggle profile here: https://www.kaggle.com/code/lucasscaetano/agricultural-analysis-exercise/notebook
